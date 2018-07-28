@@ -3,8 +3,9 @@ layout: post
 title: devoxx poland 2018
 ---
 
+State or events? Which shall I keep? - Jakub Pilimon
 
-https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd
+[source](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
  
 Event Architecture
 
