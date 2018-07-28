@@ -7,12 +7,19 @@ title: devoxx poland 2018
 https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd
  
 Event Architecture
+
 Event Storming
+
 lightweight technique
+
 All we need is unlimited space on a wide wall, sticky notes and both business and technical people gathered in one room
+
 Can derive your public API
+
 Can derive your services / modules
+
 Why
+
 Loose coupling
 OOP is a bad name – Message Oriented Programming better name
  
