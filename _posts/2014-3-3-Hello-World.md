@@ -1,9 +1,51 @@
 ---
 layout: post
-title: You're up and running!
+title: devoxx poland 2018
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd
+ 
+Event Architecture
+Event Storming
+lightweight technique
+All we need is unlimited space on a wide wall, sticky notes and both business and technical people gathered in one room
+Can derive your public API
+Can derive your services / modules
+Why
+Loose coupling
+OOP is a bad name – Message Oriented Programming better name
+ 
+Demo
+Used spock & TDD
+Def
+Given
+When (and)
+Then
+The old way
+this.limit = ?
+At this point there are no orange notes in the code
+Create an event object
+ID (ccuuid)
+Timestamp
+“amount”
+Contract is still the same
+Use map for db
+API.match
+Save == easy
+Load == tricky
+ 
+Considerations
+Backwards Compatibility
+Learning curve
+Different perspectives
+ 
+Event Architecture
+Channels
+RabbitMQ
+EJP
+ 
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
