@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Devoxx Poland - 2018
+title: Devoxx PL 18 - State or events?
 ---
 
 ## State or events? Which shall I keep? - Jakub Pilimon
